@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Efekan Bicer
+- 👋 Hi, I’m Efekan Bicer 17 y.o
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning C#
 - 📫 How to reach me efekan.bicer8@gmail.com
