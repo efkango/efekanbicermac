@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Efekan Bicer 17 y.o
-- 👀 I’m interested in backend development
+- 👀 I’m interested in backend technologies
 - 🌱 I’m currently learning NodeJS
 - 📫 How to reach me efekan.bicer8@gmail.com
 
