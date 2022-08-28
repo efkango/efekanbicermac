@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Efekan Bicer 17 y.o
 - 👀 I’m interested in backend technologies
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Golang
 - 📫 How to reach me efekan.bicer8@gmail.com
 
 <!---
