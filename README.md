@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Efekan Bicer 17 y.o
+- 👋 Hi, I’m Efekan Bicer 18 years old
 - 👀 I’m interested in backend technologies and DevOps
 - 🌱 I’m currently learning Go
 - 📫 How to reach me efekan.bicer8@gmail.com
